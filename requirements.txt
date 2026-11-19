@@ -1,0 +1,7 @@
+torch==2.15.0
+torchaudio==2.11.1
+librosa==1.0.1
+soundfile==0.14.0
+numpy==2.5.5
+onnxruntime==1.32.0
+sounddevice==0.5.6
